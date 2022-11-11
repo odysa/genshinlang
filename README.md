@@ -16,3 +16,7 @@ Here we define the Genshin language with the following syntax:
 |9|miko|If no current value in register, copy current memory block value. If there is a value in the register, then paste that value into the current memory block and clear the register.|
 |10|barbara|Print value of current memory block to STDOUT as an integer.|
 |11|klee|Read an integer from STDIN and put it into the current memory block.|
+
+<br>
+
+![Genshin](https://i0.hdslb.com/bfs/bigfun/80e0f0eabe3f40b324fadafaae2c9746bb19ffe3.jpg)
